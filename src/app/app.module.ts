@@ -5,7 +5,7 @@ import { StoreModule } from '@ngrx/store';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
- 
+  
 @NgModule({
   declarations: [
     AppComponent,
